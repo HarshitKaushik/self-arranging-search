@@ -1,0 +1,27 @@
+{
+  "name": "self-arranging-search",
+  "version": "1.0.0",
+  "description": "Self Arranging Search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshitKaushik/self-arranging-search.git"
+  },
+  "keywords": [
+    "search"
+  ],
+  "author": "Harshit Kaushik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarshitKaushik/self-arranging-search/issues"
+  },
+  "homepage": "https://github.com/HarshitKaushik/self-arranging-search#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
